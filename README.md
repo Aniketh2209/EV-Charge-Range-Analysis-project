@@ -86,5 +86,15 @@ The project provides insights into:
 
 ## Author
 
-**Aniketh Kumar**
-BTech Student | Data Analysis & Cybersecurity Enthusiast
+**Aniketh Kumar**  
+BTech Student  
+
+**Nishi**  
+BTech Student  
+
+**Dhruv Singh**  
+BTech Student  
+
+**Pratham Soni**  
+BTech Student  
+
